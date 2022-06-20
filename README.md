@@ -8,7 +8,7 @@ Trabajo Práctico de Digital House; App de tareas.
 ![WhatsApp Image 2022-06-20 at 2 34 08 PM](https://user-images.githubusercontent.com/106325954/174654584-2d2dcca3-0d12-448f-9ff8-3289739ca09f.jpeg)
 ![WhatsApp Image 2022-06-20 at 2 34 12 PM](https://user-images.githubusercontent.com/106325954/174654586-c0ee9844-f6f5-4101-a0aa-ccb1fb2ac8fe.jpeg)
 
-##2da parte:
+## 2da parte:
 [Ejercitación clase en vivo [EDITABLE].pdf](https://github.com/Facuu18/AppDeTareas/files/8942719/Ejercitacion.clase.en.vivo.EDITABLE.pdf)
 ![WhatsApp Image 2022-06-20 at 2 34 16 PM](https://user-images.githubusercontent.com/106325954/174654646-28d6ebbf-9a1a-4053-a7c4-fb2e08fa4fa5.jpeg)
 ![WhatsApp Image 2022-06-20 at 2 34 22 PM](https://user-images.githubusercontent.com/106325954/174654650-4a70e093-dae0-46e6-a4ac-7b950c04c39e.jpeg)
