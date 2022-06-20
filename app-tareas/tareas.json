@@ -1,0 +1,30 @@
+[
+    {
+        "titulo": "Realizar el TP de app de tareas 2",
+        "estado": "Terminado"
+    },
+    {
+        "titulo": "Realizar plan de estudios",
+        "estado": "En progreso"
+    },
+    {
+        "titulo": "Estudiar inglés",
+        "estado": "Pendiente"
+    },
+    {
+        "titulo": "Ensayar guitarra",
+        "estado": "Pendiente"
+    },
+    {
+        "titulo": "Hacer uso de Github",
+        "estado": "En progreso"
+    },
+    {
+        "titulo": "Aprender Python",
+        "estado": "Pendiente"
+    },
+    {
+        "titulo": "Break",
+        "estado": "Pendiente"
+    }
+]
